@@ -1,0 +1,17 @@
+.ajax-cart-qty-minus:before {
+    font-size: 12px;
+    line-height: 28px;
+    color: #000;
+    font-family: 'luma-icons';
+    vertical-align: top;
+    content: '\e60f';
+}
+
+.ajax-cart-qty-plus:before {
+    font-size: 12px;
+    line-height: 28px;
+    color: #000;
+    font-family: 'luma-icons';
+    vertical-align: top;
+    content: '\e61c';
+}
