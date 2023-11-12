@@ -16,8 +16,11 @@ Here are some of the salient features for the extension:
 6. User-friendly and seamless way to update cart
 ```
 
-## Installation
+## Configuration
+There are several configuration options for this extension, which can be found at **STORES > Configuration > Commerce Enterprise > Ajax Shopping Cart Update**.
 
+
+## Installation
 ### Magento® Marketplace
 
 This extension will also be available on the Magento® Marketplace when approved.

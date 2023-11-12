@@ -14,7 +14,7 @@
                 <resource id="Magento_Backend::stores">
                     <resource id="Magento_Backend::stores_settings">
                         <resource id="Magento_Config::config">
-                            <resource id="M2Commerce_AjaxShoppingCartUpdate::ajaxShoppingCartUpdateConfig" title="CE - Ajax Shopping Cart Update"/>
+                            <resource id="M2Commerce_AjaxShoppingCartUpdate::ajaxShoppingCartUpdateConfig" title="M2C - Ajax Shopping Cart Update"/>
                         </resource>
                     </resource>
                 </resource>

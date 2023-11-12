@@ -13,7 +13,7 @@
             <label>Commerce Enterprise</label>
         </tab>
         <section id="ajaxShoppingCartUpdate" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
-            <label>Ajax Add to Cart Update</label>
+            <label>Ajax Shopping Cart Update</label>
             <tab>commerce_enterprise</tab>
             <resource>M2Commerce_AjaxShoppingCartUpdate::ajaxShoppingCartUpdateConfig</resource>
             <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
